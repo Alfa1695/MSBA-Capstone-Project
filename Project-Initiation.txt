@@ -1,3 +1,28 @@
 Project Intiation 
 Building a project
 Completion of project
+
+************************
+
+Exercise:
+
+Option 1: Create a new Git repository from scratch
+
+Option 2: Add a Git repository to an existing folder
+
+Create an account at GitHub.com (if you haven’t already)
+
+Once this is done, do the following.
+
+Make edits to one or more files in the folder
+Commit those changes
+(Feel free to repeat as often as you like)
+Push changes to your GitHub account
+Browse to your repository on GitHub and do the following
+Go to Insights
+Go to Network
+Copy the network diagram and paste into your final writeup
+Turn in a presentation with two slides:
+
+Describe your experience using Git and GitHub
+Screenshot of your network diagram
